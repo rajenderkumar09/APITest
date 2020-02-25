@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.0.2)
+  - IQKeyboardManager (6.5.5)
+  - MBProgressHUD (1.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManager
+  - MBProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManager
+    - MBProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 3ba7a4db18b4f62c4a1c0e1cb39d7f3d52e10ada
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+
+PODFILE CHECKSUM: 91ba90d054961ff183bd94014ef986166220daac
+
+COCOAPODS: 1.8.4

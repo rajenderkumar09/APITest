@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-APITest-APITestUITests/Pods-APITest-APITestUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
